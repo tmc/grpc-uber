@@ -28,7 +28,7 @@ package uberapi
 import proto "github.com/golang/protobuf/proto"
 import fmt "fmt"
 import math "math"
-import google_protobuf "github.com/golang/protobuf/ptypes/empty"
+import google_protobuf "google/protobuf"
 import _ "github.com/gengo/grpc-gateway/third_party/googleapis/google/api"
 
 import (
